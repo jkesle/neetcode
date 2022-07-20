@@ -1,0 +1,11 @@
+#visual studio
+.vs
+
+#vscode
+.vscode
+
+#binaries
+bin
+
+#object folder
+obj
