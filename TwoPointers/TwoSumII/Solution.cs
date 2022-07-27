@@ -7,8 +7,6 @@ using System.Linq;
  *  -1000 <= nums[i] <= 1000
  *  
  *  Solution must use only O(1) extra space
- *  
- *  since the range of possible inputs is bounded to 2000, we can use a hash set O(2000) == O(1)
  */
 
 
